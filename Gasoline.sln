@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.1.8805
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gasoline", "Gasoline.csproj", "{AEAD347C-E2F1-44B9-8991-BDC301F76DC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEAD347C-E2F1-44B9-8991-BDC301F76DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEAD347C-E2F1-44B9-8991-BDC301F76DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEAD347C-E2F1-44B9-8991-BDC301F76DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEAD347C-E2F1-44B9-8991-BDC301F76DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
